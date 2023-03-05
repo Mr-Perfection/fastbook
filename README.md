@@ -36,3 +36,8 @@ publisher={O'Reilly Media, Incorporated}
 }
 ```
 
+### Setup Kaggle
+```
+kaggle config set -n username -v your_username
+kaggle config set -n key -v your_api_key
+```
